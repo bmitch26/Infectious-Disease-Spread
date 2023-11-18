@@ -1,4 +1,4 @@
-# Infectious Disease Spread of an Interconnected Population
+# Infectious Disease Spread of an Interconnected Population (NetLogo)
 The following is a NetLogo project that aims to simulate the spread of an infectious disease in a population. There are many variables one can vary to test how it affects spread, such as the number of individuals in the population, the probability of spread from one individual to another, time of immunity after healing from infection, and the maximum turtle energy level. The model will be extended in the future to include a vaccine to provide immunity for unaffected individuals as well as a 'news spread' variable that can be positive or negative to influence how many individuals receive a vaccination.
 
 In collaboration of the project was Noah Orta, MSCS from Midwestern State University, and Izzy Carr, MSCS from Midwestern State University.
